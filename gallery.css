@@ -189,7 +189,7 @@
     align-items:center;
     background-color: transparent;
     visibility: hidden;
-    opacity: 0;
+   opacity: 0;
 }
 .active{
 visibility:visible;
