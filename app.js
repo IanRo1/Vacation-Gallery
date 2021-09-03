@@ -15,3 +15,4 @@ modalClose.forEach((modal) => {modal.addEventListener('click', () => {
 });
 });
 
+/*Fetching Wiki API Data*/
